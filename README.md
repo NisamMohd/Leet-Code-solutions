@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
