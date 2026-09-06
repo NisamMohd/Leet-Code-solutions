@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2427-number-of-common-factors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
