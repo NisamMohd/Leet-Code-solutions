@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Math
 |  |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
