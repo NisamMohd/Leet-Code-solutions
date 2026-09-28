@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0001-two-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1816-truncate-sentence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0367-valid-perfect-square) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2706-buy-two-chocolates) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
