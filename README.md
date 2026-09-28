@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
