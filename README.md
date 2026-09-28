@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2706-buy-two-chocolates](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
