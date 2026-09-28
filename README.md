@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0001-two-sum) |
+| [1528-shuffle-string](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1816-truncate-sentence) |
