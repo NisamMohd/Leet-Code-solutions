@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Math
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NisamMohd/Leet-Code-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
